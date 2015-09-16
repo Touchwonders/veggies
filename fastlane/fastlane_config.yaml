@@ -1,0 +1,14 @@
+slack_url: 'https://hooks.slack.com/services/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'
+xcode_select: xcode7-beta5
+sdk: iphoneos9.0
+scheme: Veggies
+
+cocoaheads:
+  remote_branch: master
+  configuration: Release
+  notifications: 'YES'
+  emails: 'fabio@touchwonders.com'
+  team_id: LQ449R4NTB
+  targets:
+   - target_identifier: PROJECT
+     app_identifier: com.touchwonders.demo.veggies
